@@ -9,4 +9,7 @@ int main(){
     int umur;
     umur = 20;
 
+    cout << "Hallo Mas Arby" << endl;
+    cout << 10 << endl;
+    cout << umur;
 }
